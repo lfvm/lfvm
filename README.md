@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Valdeon</h1>
 <h3 align="left">Computer Science student with skills in software development in programming languages such as Python, C ++, Dart, among others. Counting with experience developing apps for Android and IOS as well as designing and implementing SQL and NoSQL databases.</h3>
 
-- 🌱 I’m currently learning **Backend and Frontend, Data Science**
-
-- 💬 Ask me about **Python, Mobile Development**
 
 - 📫 Reach me at **lfvm200@gmail.com**
 
