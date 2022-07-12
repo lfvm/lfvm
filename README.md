@@ -27,4 +27,4 @@
 <h3 align="left">My Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfvm&show_icons=true&theme=vue&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfvm&layout=compact&exclude_repo=tempo_artist,platformer_2D&hide=html,cmake&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfvm&layout=compact&exclude_repo=tempo_artist,platformer_2D&hide=html,cmake&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
