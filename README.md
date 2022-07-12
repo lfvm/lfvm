@@ -26,5 +26,5 @@
 
 <h3 align="left">My Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfvm&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfvm&show_icons=true&theme=vue-dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfvm&layout=compact&hide=shaderlab,html,hlsl,c#)](https://github.com/anuraghazra/github-readme-stats)
