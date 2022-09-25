@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Valdeon</h1>
 <h3> I am a passionate full-stack software developer who has successfully designed and implemented several cross-platform software solutions for small and medium-sized businesses ranging from simple mobile applications like e-commerces to more complex web applications which help businesses to improve internal processes, client interaction, and develop online presence. 
+
+
 As a full-stack developer, I feel comfortable developing the backend of applications using several technologies like Express with Node Js and serverless infrastructures using Aws Lambda, as per the frontend of applications i like working with React Js for web applications and flutter for mobile apps. I am looking for a position that allows me to continue growing as a software developer.
 </h3>
 
