@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Valdeon</h1>
-<h3>Experienced software developer with a strong background in building SaaS products for a variety of clients. Skilled in mobile development with Flutter, web development with React, and backend development with Node.js, Express, and Python. Proficient in cloud platforms such as AWS and GCP and serverless infrastructures. Proven track record of delivering high-quality software solutions on time and on budget
+<h3>Software Engineer specializing in full-stack development. Skilled in Java, Go, and TypeScript, among others. Experienced in microservices, cloud computing (AWS, GCP), and database management (PostgreSQL, MySQL, MongoDB). Passionate about system design, distributed systems, and performance optimization.
 </h3>
 
 - 📫 Reach me at **lfvm200@gmail.com**
